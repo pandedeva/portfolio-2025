@@ -15,7 +15,7 @@ export const ButtonWhite = ({ description }: { description: string }) => {
           duration: 0.6,
           delay: 1,
         }}
-        href={"/resume-deva.pdf"}
+        href={"/resume-deva-new.pdf"}
         target="_blank"
         rel="noopener noreferrer"
         className="px-10 py-3 border rounded-full border-gray-500 flex items-center gap-2 dark:text-black dark:bg-white"
